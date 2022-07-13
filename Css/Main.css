@@ -1,0 +1,71 @@
+body {
+  background-image: url("/Images/istockphoto-477679508-612x612.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#container {
+  width: 30%;
+  height: 80vh;
+  background-color: #aaa9ad;
+  margin-left: calc((100% - 400px) / 2);
+  margin-top: calc((100vh - 80vh) / 2);
+}
+
+input{
+  height: 35px;
+}
+
+#fronttext {
+  font-size: 35px;
+
+  margin-left: 20px;
+  padding-top: 15px;
+}
+
+#secondtext {
+  font-size: 15;
+
+  margin-left: 20px;
+  padding-top: 5px;
+}
+
+#studentname {
+  font-size: 20px;
+
+  margin-left: px;
+  padding-top: px;
+}
+
+#studentname {
+  font-size: 21px;
+  margin-left: 20px;
+  padding-top: 50px;
+}
+
+.NameLine {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+#birth {
+  display: inline-block;
+  font-size: 21px;
+  margin-left: 20px;
+  padding-top: 50px
+  
+}
+
+
+
+#size{
+  height: 400px;
+  width: 500px;
+}
+
+.narrowInput{
+  width: 60px;
+  
+}
